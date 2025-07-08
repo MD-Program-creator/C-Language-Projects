@@ -14,7 +14,7 @@ This project is created for learning and practicing logical thinking and functio
 - C Language
 - Dev C++ / VS Code
 - 
-  ## ▶ How to Run:
+  ##  How to Run:
 1. Copy the code from `main.c` (or the `.c` file)
 2. Paste it into your C compiler (Dev C++, Turbo C++, or VS Code with C extension)
 3. Compile and run the program
